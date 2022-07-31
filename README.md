@@ -1,11 +1,12 @@
 # Fake-News-Classifier
 
 This project tries to identify the fake news out of a bunch of news using LSTM's which is a deep learning technique. 
-
 The dataset used is from Kaggle and has around 20000 rows and 5 columns. 
+
 The columns are as follows:
 
-#Id                                                                                                                                                          
+#Id                                                                                                                                                         
+
 #Title: Headline of the news article.
 
 #Author 
@@ -24,7 +25,11 @@ But RNNs suffer from short-term memory problem and because of this LSTM’s were
 WorkFlow of the task:
 
 1: Data reading using pandas library.
+
 2: Data preprocessing and cleaning like finding and handling null and missing values.
+
 3: Transforming data using tokenization, Stemming, WordEmbedding etc. so that it can be fed to the deep learning model and doing train-test split.
+
 4. Creating deep learning model and fitting it on the training data.
-5. Evaluatig model using Classsification accuracy on the test data(The model achieved an accuracy of around 90%).
+
+6. Evaluatig model using Classsification accuracy on the test data(The model achieved an accuracy of around 90%).
