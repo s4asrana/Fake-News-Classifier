@@ -32,4 +32,4 @@ WorkFlow of the task:
 
 4. Creating deep learning model and fitting it on the training data.
 
-6. Evaluatig model using Classsification accuracy on the test data(The model achieved an accuracy of around 90%).
+5. Evaluatig model using Classsification accuracy on the test data(The model achieved an accuracy of around 90%).
