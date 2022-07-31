@@ -5,9 +5,8 @@ This project tries to identify the fake news out of a bunch of news using LSTM's
 The dataset used is from Kaggle and has around 20000 rows and 5 columns. 
 The columns are as follows:
 
-Id 
-Title: Headline of the news article.
-#Author
+#Id                                                                                                                                                          #Title: Headline of the news article.
+#Author 
 #Text: Content of the news
 #Label: 1-Fake news
         0-Not a fake news
