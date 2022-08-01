@@ -1,7 +1,7 @@
 # Fake-News-Classifier
 
 This project tries to identify the fake news out of a bunch of news using LSTM's which is a deep learning technique. 
-The dataset used is from Kaggle and has around 20000 rows and 5 columns. 
+The dataset used is from Kaggle and has around 20000 rows and 5 columns and has a size of around 100 megabytes which is quite big.
 
 The columns are as follows:
 
